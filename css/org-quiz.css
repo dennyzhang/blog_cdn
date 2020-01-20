@@ -1,0 +1,8 @@
+.entry-title a:hover,a:link,a:visited{
+    color:#825d5b;
+    text-decoration:none
+}
+
+#content .entry-content a:hover,.button,.button:hover{
+    text-decoration:none
+}
